@@ -1,0 +1,43 @@
+#info_entreprise{
+	height: 3em;
+    width: 24em;
+    background: #DFDFDF;
+}
+button{
+	background: red ;
+	height: 3em;
+    width: 20em;
+}
+iframe{
+	border: solid 2px;
+	margin: 36px 0 0 54em;
+}
+.ajouter{
+	margin: -70px 0 65px 76em;
+	height: 3em;
+    width: 20em;
+}
+#bloc1{
+	padding: 1px 0 0 3em;
+	margin: 82px 0 0 0;
+}
+h1{
+	font-family: sans-serif;
+	text-align: center;
+	padding-bottom: 1em;
+}
+#intro{
+	text-align: center;
+	font-size: 28px;
+    padding: 19px 0 0 4px;
+    font-family: sans-serif;
+    background: #C1C1C1;
+    height: 3em;
+}
+#resultat{
+	font-family: sans-serif;
+    margin: 0 0 0 48px;
+}
+#map{
+	display: none;
+}
